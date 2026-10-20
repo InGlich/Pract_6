@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\Пользователь\source\repos\Project7\Project7\Source.c(7,5): warning C4013: Task: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Пользователь\source\repos\Project7\Project7\Source.c(8,5): warning C4013: Task2: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Пользователь\source\repos\Project7\Project7\Source.c(9,5): warning C4013: Task3: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Пользователь\source\repos\Project7\Project7\Source.c(10,5): warning C4013: TaskDZ: нет определения; предполагается "extern" с возвратом типа "int"
+  Project7.vcxproj -> C:\Users\Пользователь\source\repos\Project7\x64\Debug\Project7.exe
